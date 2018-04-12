@@ -1,218 +1,218 @@
-,timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random,good(1),good(2),y_birth,m_birth,d_birth,h_bed,m_bed
-0,4/5/2018 11:22:56,QRM,0,0,1,0,male,neither,-1,0,0,7,Productive,Good sleep,1994,10,12,0,0
-1,4/5/2018 11:23:04,CS,0,0,-1,1,male,ignorant,-1,1,-1,-1,got a 8.5,got 2 8.5s,1993,6,8,15,20
-2,4/5/2018 11:23:06,BA,1,1,0,1,male,neither,5,0,-1,6,Food,Sport,1992,12,25,0,0
-3,4/5/2018 11:23:50,BA,1,1,1,1,male,ignorant,2,0,0,8,-,-,1995,1,2,-1,-1
-4,4/5/2018 11:23:59,CS,0,0,0,1,male,ignorant,6,0,0,8,sleep,beer,1994,9,1,0,0
-5,4/5/2018 11:24:34,Drug Discovery and Safety,0,0,1,0,male,fat,4,0,100,-1,Chocolate,Doing nothing ,1994,8,17,9,0
-6,4/5/2018 11:25:25,CS,1,1,1,0,male,neither,5,0,1,-1,Chocolate,More chocolate,1993,9,27,0,0
-7,4/5/2018 11:25:25,CLS,0,0,1,1,male,fat,5,1,0,3,Sunshine,Friends,1994,5,14,0,0
-8,4/5/2018 11:25:36,CS,0,0,1,0,male,neither,2,0,0,-1,Sun,Rain,1931,11,4,1,0
-9,4/5/2018 11:25:51,CS,1,1,-1,1,male,slim,7,0,0,5,Free time,More free time,1993,8,19,2,0
-10,4/5/2018 11:25:54,CS,0,0,1,0,female,ignorant,8,1,0,8,Good coffee,Sunshine,1990,5,16,0,0
-11,4/5/2018 11:26:10,CS,0,0,1,1,female,slim,6,0,1,-1,Cats,Coffee,1995,3,30,0,0
-12,4/5/2018 11:26:23,CS,1,0,1,0,female,fat,8,0,2,-1,Sunny weather ,Good food ,-1,10,16,-1,-1
-13,4/5/2018 11:26:30,AI,1,1,0,1,male,ignorant,6,0,-1,-1,Good grades,All grades,-1,4,12,1,0
-14,4/5/2018 11:26:39,EOR,1,0,1,0,male,ignorant,2,0,99,-1,Food,Wine,-1,2,4,0,0
-15,4/5/2018 11:26:40,CS,0,0,1,0,female,fat,1,0,0,7,Pancakes for breakfast,No wind,1994,5,2,23,30
-16,4/5/2018 11:26:43,BA,1,1,1,1,female,ignorant,1,1,100,7,Sleep,Netflix,-1,1,22,1,30
-17,4/5/2018 11:26:44,BA,1,1,1,1,male,fat,3,0,80,6,Sleep,Relax,1994,7,10,1,0
-18,4/5/2018 11:26:47,AI,1,1,1,1,female,fat,2,0,0,-1,Good sleep,Go to the gym,1995,2,23,23,30
-19,4/5/2018 11:26:54,CS,0,0,1,1,male,neither,1,0,1,7,Pizza,Beer,1994,3,24,-1,-1
-20,4/5/2018 11:27:04,CLS,0,0,1,0,male,ignorant,7,-1,-1,-1,Pancakes,Pizza,1996,1,4,23,59
-21,4/5/2018 11:27:06,CS,1,0,1,1,male,ignorant,2,0,200,2,Good foodd,Lot of foodd,1995,7,12,23,20
-22,4/5/2018 11:27:06,AI,1,1,1,0,male,ignorant,1,0,70,2,sex,good food,1992,4,11,2,0
-23,4/5/2018 11:27:08,AI,0,0,1,0,female,ignorant,5,0,0,6,Puppies,sunshine,1993,5,11,23,30
-24,4/5/2018 11:27:10,CLS,0,0,1,0,female,neither,8,0,0,7,Nice grades,Good food,-1,11,3,0,0
-25,4/5/2018 11:27:11,CS,0,0,1,1,male,fat,8,-1,10,4,Coffee,Good night sleep,1994,9,21,1,30
-26,4/5/2018 11:27:12,BA,1,1,1,0,male,slim,2,0,110,-1,Cheese,Beer,-1,10,19,23,30
-27,4/5/2018 11:27:12,BA,1,1,1,0,female,fat,2,0,10,9,Coffee,Food,-1,4,14,0,0
-28,4/5/2018 11:27:13,AI,1,1,1,1,male,fat,5,0,1234,4,Food,Coffee,-1,12,23,23,30
-29,4/5/2018 11:27:14,CS,0,0,1,0,female,fat,1,0,-1,3,Good food,Lovely people,1991,10,29,1,20
-30,4/5/2018 11:27:14,CLS,0,0,1,1,male,fat,7,0,110,-1,Sunshine,Beer,1991,7,11,23,55
-31,4/5/2018 11:27:15,BA,1,1,1,1,male,ignorant,4,0,100,5,Sun,Sun,-1,2,15,1,0
-32,4/5/2018 11:27:16,BA,1,1,1,1,female,ignorant,0,0,25,3,Sun,Friends,-1,3,10,23,0
-33,4/5/2018 11:27:16,AI,1,1,1,1,female,ignorant,3,0,0,-1,Nice weather ,Music,-1,1,14,2,0
-34,4/5/2018 11:27:18,unknown,0,0,1,0,male,neither,7,0,-1,-1,Good food,No alarm,1995,5,21,-1,-1
-35,4/5/2018 11:27:18,CS,1,1,1,1,male,neither,1,0,1,9,Sun,Freedom,1992,11,9,1,0
-36,4/5/2018 11:27:18,BA,1,1,1,1,male,fat,0,0,0,1,Good food ,Good sex ,1995,4,12,1,0
-37,4/5/2018 11:27:18,AI,0,1,1,1,female,fat,5,0,100,2,good food,enough sleep,1995,10,1,1,0
-38,4/5/2018 11:27:18,AI,1,1,1,1,male,ignorant,6,0,3,-1,No homework,A blunt,-1,-1,-1,1,0
-39,4/5/2018 11:27:19,AI,1,1,1,0,female,neither,-1,0,5,2,Good weather,No school ,-1,8,20,1,15
-40,4/5/2018 11:27:19,AI,1,0,1,0,male,ignorant,1,0,0,2,Snow,Storm,-1,5,12,-1,-1
-41,4/5/2018 11:27:20,AI,1,1,1,1,male,ignorant,-1,0,99,9,Fun,Relaxation,1993,6,13,1,0
-42,4/5/2018 11:27:21,AI,1,1,1,0,male,ignorant,2,0,6,5,Jezus man,Te diep,1996,1,29,2,0
-43,4/5/2018 11:27:21,CS,1,0,1,1,unknown,fat,2,0,1,9,Energy,Smiles,-1,10,12,22,0
-44,4/5/2018 11:27:21,AI,1,0,1,0,male,neither,5,0,10,-1,Food,Sports,1994,5,15,0,0
-45,4/5/2018 11:27:21,BA,1,1,1,1,male,ignorant,-1,0,7,5,beer,sex,1994,12,27,23,0
-46,4/5/2018 11:27:22,BA,1,1,1,1,male,fat,-1,0,0,4,Beer,Good food,1995,10,8,23,55
-47,4/5/2018 11:27:23,BA,1,1,1,1,female,fat,1,0,50,8,Sun,Free time,1995,5,25,23,0
-48,4/5/2018 11:27:23,CS,1,0,1,0,female,fat,0,0,100,-1,cats,coffee,1996,1,16,0,0
-49,4/5/2018 11:27:25,BA,1,1,1,1,male,fat,7,0,100,-1,Sex,Gaming,1994,10,16,23,15
-50,4/5/2018 11:27:25,Exchange,1,1,1,1,male,fat,8,0,1,7,Weather,Beer,-1,4,28,0,0
-51,4/5/2018 11:27:26,BA,1,1,1,1,male,neither,4,0,42,7,Laughing,Sun shining,1994,12,13,0,0
-52,4/5/2018 11:27:26,EOR,0,0,1,0,female,fat,7,0,0,4,Sun,Sea,-1,4,4,11,50
-53,4/5/2018 11:27:27,CS,0,0,1,1,male,neither,-1,0,1,6,People miding their own business,Nice weather,1996,7,15,1,0
-54,4/5/2018 11:27:27,AI,1,0,1,1,male,ignorant,-1,0,0,9,Coffee,Pizza,1995,1,30,0,0
-55,4/5/2018 11:27:27,EOR,0,0,1,0,male,neither,4,0,100,3,Sun ,Food,1995,8,22,23,30
-56,4/5/2018 11:27:27,Duisenberg Honor Programme,0,0,1,0,male,fat,1,0,25,7,No assigments,Freedom,1992,10,17,0,30
-57,4/5/2018 11:27:27,BA,1,1,1,1,male,slim,8,0,0,8,Music,Food,-1,11,28,1,0
-58,4/5/2018 11:27:28,QRM,0,0,1,0,male,neither,2,0,0,6,Saturday,Sunday,1994,3,17,0,15
-59,4/5/2018 11:27:28,BA,1,1,1,1,female,fat,6,0,25,8,Chocolate,Sun,1994,4,30,23,15
-60,4/5/2018 11:27:28,unknown,1,1,1,1,male,neither,-1,0,25,7,-,-,-1,1,16,23,0
-61,4/5/2018 11:27:28,CLS,1,0,1,1,female,fat,3,0,0,1,Enough sleep,Exercise,-1,1,20,1,0
-62,4/5/2018 11:27:29,CS,1,1,0,1,unknown,fat,2,1,90,8,Wake up time,Chocolate,1995,11,20,0,0
-63,4/5/2018 11:27:30,BA,1,1,1,1,male,fat,7,0,1,8,Coffee,Wake-up time,1996,9,3,23,5
-64,4/5/2018 11:27:30,AI,0,1,1,1,male,ignorant,2,0,25,-1,Sunny day,No school,-1,-1,-1,0,0
-65,4/5/2018 11:27:30,CS,0,0,1,0,male,fat,3,0,2,2,Freedom,Money,1991,11,22,2,0
-66,4/5/2018 11:27:31,AI,1,1,1,1,male,fat,-1,0,101,-1,Not coming to VU,Sushi,-1,1,23,1,0
-67,4/5/2018 11:27:31,CS,1,1,1,1,male,unknown,2,0,0,1,Work,Food,1994,12,9,2,0
-68,4/5/2018 11:27:31,AI,1,0,1,1,female,ignorant,2,0,1,7,nice weather,coffee,1995,10,9,0,0
-69,4/5/2018 11:27:32,CS,0,0,1,0,male,ignorant,5,0,1,0,Fox news,sleep,-1,12,21,-1,-1
-70,4/5/2018 11:27:32,AI,0,1,1,-1,female,ignorant,1,0,1,7,sunny weather,pizza,-1,1,28,23,3
-71,4/5/2018 11:27:32,CLS,0,-1,0,0,female,fat,7,0,0,3,Sun,Not studying,-1,2,7,0,0
-72,4/5/2018 11:27:32,AI,0,0,0,1,male,ignorant,4,0,100,5,Fun fun fun,A good day,1991,12,30,23,59
-73,4/5/2018 11:27:32,CLS,0,0,1,1,female,slim,7,0,10,7,No rain,Food,1995,5,8,1,30
-74,4/5/2018 11:27:32,BA,1,0,1,1,female,fat,6,0,2,7,nice food,a lot of fun ,1992,9,27,22,10
-75,4/5/2018 11:27:32,CLS,0,0,1,0,female,slim,1,0,-1,1,Kind people around me ,Coffee,1993,8,8,-1,-1
-76,4/5/2018 11:27:32,AI,0,0,0,0,female,neither,1,0,10,9,sunshine,good coffee ,1995,10,3,1,0
-77,4/5/2018 11:27:33,AI,0,0,1,1,male,ignorant,4,0,5,7,Bunnies,Good weather,1990,2,9,1,15
-78,4/5/2018 11:27:33,AI,0,0,1,1,female,ignorant,1,0,0,8,Laughs,No stress,-1,11,11,23,15
-79,4/5/2018 11:27:33,CS,0,1,1,0,male,fat,1,0,100,8,Sun,Lunch,1994,8,31,12,0
-80,4/5/2018 11:27:33,MS,-1,0,1,0,male,neither,8,0,50,3,A productive day,A day with company,1988,5,2,23,58
-81,4/5/2018 11:27:34,BA,1,1,1,1,male,neither,7,0,0,4,Food,Good grades,-1,4,19,0,0
-82,4/5/2018 11:27:34,CS,0,0,0,1,female,fat,7,0,1,-1,sunshine,beer,1987,5,10,1,30
-83,4/5/2018 11:27:34,Human Movement Science,0,0,1,0,female,ignorant,1,0,0,8,Coffee,Sunshine,1992,5,28,0,30
-84,4/5/2018 11:27:35,BA,1,0,1,0,male,fat,1,0,1,3,Sun,Good food,-1,7,29,0,0
-85,4/5/2018 11:27:35,BA,1,1,1,1,male,ignorant,1,0,100,4,Sex,No worries,-1,3,27,4,0
-86,4/5/2018 11:27:35,Finance,0,0,1,1,male,fat,5,0,1,5,Some food,Netflix,1994,3,4,1,0
-87,4/5/2018 11:27:35,BA,1,1,1,1,male,fat,6,0,0,9,Food,Sleep,1994,7,5,-1,-1
-88,4/5/2018 11:27:35,QRM,0,0,1,0,male,fat,5,0,5,7,Nice weather,Winning the lotery,-1,6,28,0,30
-89,4/5/2018 11:27:35,AI,1,1,1,1,female,neither,-1,0,0,5,Food,Sleep,1995,6,27,1,0
-90,4/5/2018 11:27:35,PhD student,1,0,1,1,male,fat,2,0,0,3,Sex,Video games,1990,2,9,23,0
-91,4/5/2018 11:27:35,CS,1,0,0,1,female,neither,-1,0,20,1,Sun,Free time,1994,12,25,0,0
-92,4/5/2018 11:27:36,PhD student,0,0,1,0,female,fat,0,0,1,6,sleeping well,sunshine,-1,3,30,-1,-1
-93,4/5/2018 11:27:36,CS,1,1,1,1,female,neither,-1,0,0,1,chocolate,nice weather,1993,11,21,23,30
-94,4/5/2018 11:27:36,CS,1,0,1,0,female,fat,2,0,0,8,Receiving food,Sun,1994,12,4,0,0
-95,4/5/2018 11:27:36,BA,1,1,1,1,male,slim,7,0,85,3,Sex,Good sleep,1992,8,24,0,30
-96,4/5/2018 11:27:36,CS,0,0,1,1,male,slim,6,0,100,2,Plenty food,Plenty sleep,-1,7,11,22,0
-97,4/5/2018 11:27:37,CS,0,0,1,1,male,slim,-1,0,100,5,Music,Challenge ,1990,5,2,0,0
-98,4/5/2018 11:27:37,CS,1,1,1,1,male,ignorant,1,0,100,7,Mac Donalds,A good sleep,1994,9,9,23,30
-99,4/5/2018 11:27:37,CS,1,0,1,1,male,neither,-1,0,100,7,Achieving something,Learning something,-1,9,18,0,0
-100,4/5/2018 11:27:38,BA,1,1,1,1,male,ignorant,1,0,10,2,Sun,Sleep,-1,8,17,23,0
-101,4/5/2018 11:27:38,CS,0,0,1,0,female,ignorant,4,0,1,1,coffee,laughter,-1,2,2,0,0
-102,4/5/2018 11:27:38,CS,0,0,1,1,male,fat,5,1,10,9,The Sun,No stress,-1,6,19,2,0
-103,4/5/2018 11:27:38,AI,1,0,1,0,female,ignorant,3,0,1,8,Sunshine,Coffee,1993,12,22,22,45
-104,4/5/2018 11:27:38,CS,1,1,1,1,male,fat,-1,0,40,8,Good food,A good nice sleep,1993,11,6,23,0
-105,4/5/2018 11:27:38,CLS,1,1,1,0,male,neither,6,0,20,7,Coffee,Finishing some work,1994,5,17,1,30
-106,4/5/2018 11:27:38,AI,1,1,1,0,male,neither,5,0,0,8,"Sun, music, friends, beer",Coffee,1993,10,15,0,0
-107,4/5/2018 11:27:39,CS,1,0,0,0,female,slim,2,0,5,-1,Good sleep,Nice food,1995,2,20,0,0
-108,4/5/2018 11:27:39,AI,0,0,1,0,male,neither,6,0,-1,7,Saturday,Sunday,1992,3,17,0,0
-109,4/5/2018 11:27:39,CS,0,0,1,1,male,neither,1,0,-1,-1,Good fuckin breakfast,Completing my task,1992,10,14,1,48
-110,4/5/2018 11:27:40,AI,0,1,1,1,female,neither,1,0,1,9,Sunny weather,no work appointments,1991,4,12,0,0
-111,4/5/2018 11:27:40,CS,1,0,1,0,male,fat,4,0,0,2,Good weather,No lectures,1996,10,9,2,0
-112,4/5/2018 11:27:40,CS,0,0,1,0,male,fat,4,0,0,8,Chocolate,Flying,1993,9,19,0,0
-113,4/5/2018 11:27:41,AI,1,1,1,1,female,ignorant,6,0,50,9,If the sun shines,If I got up with the correct leg,-1,9,9,0,0
-114,4/5/2018 11:27:42,CLS,1,1,1,1,male,slim,6,-1,-1,3,Sun,Friends,1994,1,26,0,45
-115,4/5/2018 11:27:42,CS,1,0,1,0,female,fat,1,0,75,9,Sun,Good food,1995,11,24,1,0
-116,4/5/2018 11:27:42,AI,0,0,1,0,male,neither,4,0,27,8,Relief,Future plans being solid,1994,3,9,2,0
-117,4/5/2018 11:27:42,AI,1,1,1,1,male,ignorant,3,1,100,6,Sex,Drugs,-1,9,11,1,0
-118,4/5/2018 11:27:43,BA,1,0,1,0,male,neither,-1,0,0,9,Wake up without A alarm,Going to the gym,1992,12,30,23,30
-119,4/5/2018 11:27:43,CLS,0,0,1,0,male,ignorant,7,0,10,-1,Sports,Being productive,1994,2,18,23,30
-120,4/5/2018 11:27:43,CS,0,0,0,0,male,slim,2,-1,0,9,Good food,fast train,1996,5,22,0,0
-121,4/5/2018 11:27:43,BA,1,1,1,1,female,fat,7,0,0,8,Nice weather,Coffe,1995,9,13,23,0
-122,4/5/2018 11:27:44,AI,1,1,0,0,male,ignorant,8,1,1,7,Finish my daily tasks,Watch a movie,1993,3,26,0,30
-123,4/5/2018 11:27:44,AI,1,1,0,1,female,fat,8,0,50,7,no rain,sun,-1,11,15,-1,-1
-124,4/5/2018 11:27:45,CLS,1,0,1,0,male,neither,8,0,0,4,sun,good food,1990,4,4,11,49
-125,4/5/2018 11:27:45,AI,0,1,1,0,male,ignorant,7,0,-1,9,Getting my salary,Bike not braking down,1989,4,19,23,45
-126,4/5/2018 11:27:45,MPA,0,0,1,0,male,neither,4,0,100,4,sunny weather,no obligations,1992,4,6,23,0
-127,4/5/2018 11:27:45,CS,1,1,1,1,male,fat,8,0,80,6,Sunny weather ,Good food,1995,5,4,-1,-1
-128,4/5/2018 11:27:45,CS,1,0,0,0,male,fat,-1,0,1,7,good dinner,assignmeny done,1988,9,22,0,0
-129,4/5/2018 11:27:45,AI,1,1,0,0,male,fat,-1,0,100,1,Get some good sleep,Get satisfaction at work,1981,3,14,0,30
-130,4/5/2018 11:27:46,CLS,1,0,1,0,male,neither,3,0,0,8,Friendly encounters,Good coffee,1993,12,31,2,0
-131,4/5/2018 11:27:46,CS,1,0,1,0,female,neither,1,0,0,2,Morning tea,Getting to bed early,1996,11,2,-1,-1
-132,4/5/2018 11:27:46,CS,1,0,1,0,male,fat,2,0,0,10,Good dinner,Friends,1995,3,20,12,20
-133,4/5/2018 11:27:46,AI,1,1,1,0,female,fat,1,0,-1,-1,Seeing friends,sun,-1,5,19,2,0
-134,4/5/2018 11:27:47,AI,0,0,1,-1,female,ignorant,1,0,12,8,Nothing,"Nothing, I hate life",-1,8,12,6,0
-135,4/5/2018 11:27:48,EOR,0,0,1,0,male,neither,8,0,0,-1,Sports,Good dinner,1995,10,12,23,45
-136,4/5/2018 11:27:48,EOR,1,1,1,0,male,fat,-1,0,100,-1,Achievement,Relaxation,1994,10,23,-1,-1
-137,4/5/2018 11:27:48,BA,0,0,1,0,female,neither,1,0,10,4,Tasty food,Being with my friends,1993,2,18,23,30
-138,4/5/2018 11:27:48,CS,1,0,1,0,male,neither,5,0,100,10,Productivity,Decent dinner,-1,6,17,0,0
-139,4/5/2018 11:27:48,BA,1,1,1,1,male,neither,1,0,5,1,Sleep,Good news,1996,2,9,0,0
-140,4/5/2018 11:27:49,CS,0,0,0,0,female,neither,2,0,10,10,Sunny day,Meeting with friends,1995,4,24,0,0
-141,4/5/2018 11:27:50,CS,0,0,1,1,male,ignorant,3,0,25,7,Food,Football,-1,3,29,0,0
-142,4/5/2018 11:27:50,CS,0,0,0,0,male,fat,7,0,1,4,Succeed in dayly goal,Noting to do,1994,6,23,11,30
-143,4/5/2018 11:27:50,AI,1,0,1,0,male,ignorant,4,0,15,1,Coffee,Sunshine,1990,10,25,0,0
-144,4/5/2018 11:27:50,BA,1,1,1,1,unknown,neither,1,0,0,6,No school/work,Sex,1994,6,9,23,30
-145,4/5/2018 11:27:50,AI,0,0,1,0,female,ignorant,2,0,0,7,Friends,Weather,1995,1,16,3,0
-146,4/5/2018 11:27:50,BA,1,0,1,1,female,fat,2,0,5,7,sun,free day,1994,6,13,23,0
-147,4/5/2018 11:27:51,BA,1,1,1,1,male,ignorant,6,0,0,9,Sports,Drinks,-1,4,24,0,0
-148,4/5/2018 11:27:51,CS,0,0,1,1,male,fat,6,0,1,8,Rest,Goos food,1995,12,14,0,0
-149,4/5/2018 11:27:51,QRM,0,0,1,0,male,neither,2,0,5,1,Na,Na,1993,5,24,1,30
-150,4/5/2018 11:27:51,CLS,1,0,1,1,female,fat,7,1,2,2,Dance,Productive,1990,12,7,1,15
-151,4/5/2018 11:27:51,BA,1,1,1,1,male,ignorant,5,-1,100,7,Sunshine,Good food,1997,1,18,0,30
-152,4/5/2018 11:27:51,MS,-1,0,1,0,male,neither,8,0,50,3,A productive day,A day with company,1988,5,2,23,58
-153,4/5/2018 11:27:52,CS,0,0,0,0,male,fat,2,0,1,-1,Food,Chocolate,1992,6,11,2,30
-154,4/5/2018 11:27:52,AI,0,0,1,0,male,neither,6,0,0,6,Fun,Nice food,1995,7,3,23,45
-155,4/5/2018 11:27:53,AI,1,1,1,1,male,ignorant,4,0,90,1,Sleeping in,Staying up late,1992,7,31,2,0
-156,4/5/2018 11:27:53,BA,1,0,1,1,male,fat,-1,0,-1,-1,having a good sleep,some free time,1768,1,10,22,0
-157,4/5/2018 11:27:53,QRM,-1,0,1,0,male,neither,0,0,50,3,good weather,free time,1994,4,12,0,0
-158,4/5/2018 11:27:54,CS,0,0,1,1,female,ignorant,-1,0,100,3,Good food,No stress,1991,12,10,3,0
-159,4/5/2018 11:27:54,AI,1,1,1,1,male,fat,7,0,20,7,Coffee,Sunshine,1993,2,7,1,34
-160,4/5/2018 11:27:54,QRM,0,0,1,0,male,ignorant,0,0,14,4,Coffee,Sunny day,1993,3,12,0,0
-161,4/5/2018 11:27:55,CS,1,0,1,0,male,ignorant,6,0,1,8,Sunshine,Breakfast,1991,9,18,0,0
-162,4/5/2018 11:27:56,Bioinformatics,1,0,0,0,male,neither,6,0,0,4,No responsibilities,sleeping in,1994,1,23,1,30
-163,4/5/2018 11:27:56,CS,0,0,1,0,male,fat,-1,0,1,10,Playing football,Meeting awesome people,1994,12,10,1,0
-164,4/5/2018 11:27:58,CS,1,1,1,1,male,fat,-1,0,5,8,Sex,Asian food,1990,5,11,1,0
-165,4/5/2018 11:27:58,Exchange,1,0,-1,1,female,neither,6,0,20,1,Things to do,Not too much to do,1994,1,6,23,30
-166,4/5/2018 11:27:58,BA,1,0,1,0,male,neither,6,0,0,8,sleeping,weather,1991,4,7,0,0
-167,4/5/2018 11:27:58,PhD student,0,0,1,0,male,neither,2,0,0,7,Nice food,Good sleep,1995,1,3,23,30
-168,4/5/2018 11:27:59,CS,0,0,1,0,male,fat,6,0,10,2,Good sleep,Good food,1996,2,3,23,30
-169,4/5/2018 11:27:59,CS,1,0,1,0,female,neither,2,0,1,7,Sunshine,Having the house quiet ehrn i wake up,1987,5,8,0,13
-170,4/5/2018 11:28:00,SBI,0,0,-1,1,male,neither,2,0,0,6,Waking up not tired,Have nothing to do,1994,2,25,23,45
-171,4/5/2018 11:28:00,CS,0,0,1,0,female,neither,2,0,0,7,A,B,1995,3,28,23,0
-172,4/5/2018 11:28:00,CLS,0,0,1,0,male,neither,8,0,52,4,Free cheese,Good coffee,1995,1,27,-1,-1
-173,4/5/2018 11:28:00,QRM,0,0,1,0,male,neither,8,0,5,6,Success,Food,-1,10,9,0,30
-174,4/5/2018 11:28:01,AI,1,0,1,1,male,neither,1,0,1,10,Having slept well,Getting work done,1994,9,7,0,0
-175,4/5/2018 11:28:01,CS,1,1,1,1,unknown,ignorant,8,-1,1,3,Free time,Not it being bad,-1,5,18,0,0
-176,4/5/2018 11:28:02,CLS,1,1,1,1,male,neither,1,0,101,4,Pizza,Seeing you *kiss*,1996,10,25,3,20
-177,4/5/2018 11:28:02,AI,1,1,1,1,male,neither,7,0,1,3,Beer,Exercise,1994,11,2,3,0
-178,4/5/2018 11:28:03,BA,0,0,1,0,male,ignorant,2,0,101,2,Holiday,Food ,1995,8,15,23,15
-179,4/5/2018 11:28:03,QRM,0,0,1,0,male,neither,1,0,0,9,No time series assignment,0,1996,12,9,1,30
-180,4/5/2018 11:28:03,CS,0,1,1,0,male,fat,2,0,1,8,good food,new experiences,1992,11,8,0,0
-181,4/5/2018 11:28:04,CS,0,0,1,-1,female,fat,1,0,4,7,Me-Time,Productivity,1991,12,23,0,0
-182,4/5/2018 11:28:04,CS,1,0,1,0,female,ignorant,4,0,5,3,Not having to get up early,sushi,1993,6,13,2,0
-183,4/5/2018 11:28:04,CLS,1,0,1,1,male,neither,5,0,0,9,Sunny,Food,-1,6,26,1,0
-184,4/5/2018 11:28:05,AI,0,0,1,0,male,neither,3,0,3,7,No alarm in the morning,Good and sunny weather,1993,12,2,2,0
-185,4/5/2018 11:28:08,CLS,0,1,1,0,male,neither,3,0,1,-1,waking up well rested,get fast asleep quickly,-1,10,4,0,0
-186,4/5/2018 11:28:08,PhD student,0,0,1,0,male,neither,2,0,0,7,Nice food,Good sleep,1995,1,3,23,30
-187,4/5/2018 11:28:09,AI,0,-1,1,-1,female,neither,0,0,1,3,Food,Not having Anything to do,1996,8,25,0,0
-188,4/5/2018 11:28:09,BA,1,0,1,0,male,fat,3,0,5,4,Sleep,Sports,1992,7,7,1,30
-189,4/5/2018 11:28:10,CS,0,1,1,1,male,ignorant,6,0,-1,9,Cloudy skies  ,Memes ,1995,2,4,0,0
-190,4/5/2018 11:28:11,CLS,1,0,1,0,male,neither,3,0,1,10,afternoon lectures,weekend,-1,11,17,1,0
-191,4/5/2018 11:28:12,BA,1,0,1,0,male,fat,3,1,200,1,Food,No college,1994,1,9,0,0
-192,4/5/2018 11:28:14,BA,1,1,1,1,female,fat,5,0,30,9,Getting a good grade,Sleep well,1995,2,23,23,30
-193,4/5/2018 11:28:15,CS,0,0,1,-1,male,fat,1,0,0,2,nice weather,fun time,1993,2,9,0,30
-194,4/5/2018 11:28:15,CLS,1,0,1,0,male,ignorant,4,1,0,-1,No lecture at 9,No lectures,1993,7,6,23,15
-195,4/5/2018 11:28:15,CS,1,1,1,1,male,fat,5,0,0,-1,Morning sex,Going to the gym,-1,1,12,2,30
-196,4/5/2018 11:28:18,BA,1,0,1,1,female,neither,4,0,-1,9,Good sleep,Free time ,1993,3,19,0,0
-197,4/5/2018 11:28:19,CS,1,0,0,0,female,neither,-1,0,5,8,good weather,Achievement,-1,-1,-1,22,0
-198,4/5/2018 11:28:20,CS,0,0,1,0,female,ignorant,7,0,5,7,A good sleep,Be around nice people,1996,9,24,23,0
-199,4/5/2018 11:28:18,CS,0,0,1,1,male,ignorant,7,0,3,3,Good night rest,No compile errors on first try,1996,5,2,0,0
-200,4/5/2018 11:28:21,EOR,0,0,1,0,male,neither,3,0,10,-1,Sports,Chocolate,1995,4,12,0,0
-201,4/5/2018 11:28:23,CLS,1,-1,1,1,male,neither,1,0,80,4,productivity,no pain,1990,4,12,3,0
-202,4/5/2018 11:28:25,CS,0,0,1,0,male,fat,1,0,5,-1,Good sleep,Cheese,1993,11,26,0,0
-203,4/5/2018 11:28:26,AI,1,0,1,1,male,fat,1,0,20,7,Coffee,Music,1994,8,18,23,0
-204,4/5/2018 11:28:29,AI,0,0,1,0,male,fat,5,0,50,6,Good sleep,Sports,1990,12,30,3,0
-205,4/5/2018 11:28:30,CLS,1,0,0,0,male,neither,2,0,0,4,1,2,-1,8,7,4,30
-206,4/5/2018 11:28:32,BA,1,1,0,1,male,unknown,-1,-1,999999999999999983222784,7,Guest lecture by Tupac,0 heart attacks,2000,5,4,4,0
-207,4/5/2018 11:28:42,CLS,0,0,0,0,male,slim,7,0,0,7,Temptation Island,Sun,1991,12,25,2,0
-208,4/5/2018 11:28:56,QRM,0,0,1,1,male,ignorant,1,0,5,3,"Sunshine, structure ","Following 4 courses at the same time, rain",-1,3,18,0,0
-209,4/5/2018 11:29:04,CS,1,0,1,0,female,neither,1,0,0,5,A good book,Nice people,1993,10,24,1,5
-210,4/5/2018 11:29:27,AI,1,1,1,1,male,ignorant,6,0,50,9,Hanging out,Sex,1993,9,2,0,0
-211,4/5/2018 11:30:36,AI,0,0,1,0,male,slim,2,-1,0,-1,food,friends,-1,9,11,0,0
-212,4/5/2018 11:38:01,CS,0,0,1,0,male,fat,3,0,2,2,Freedom,Money,1991,11,22,2,0
-213,4/5/2018 12:10:39,AI,0,0,-1,-1,female,neither,7,-1,0,-1,Sun,Activities,1993,5,20,0,0
-214,4/5/2018 13:15:17,AI,1,1,1,0,male,fat,8,0,11,2,The foresight of a night out with friends,The taste of that first sip of cold beer on a hot summer day,1992,7,30,4,0
-215,4/5/2018 15:09:53,CS,0,1,1,0,male,neither,5,0,-1,10,Good company,Well rested and structured,1991,4,12,1,30
-216,4/5/2018 18:04:54,BA,1,1,1,1,male,fat,3,0,80,6,Sleep,Relax,1994,7,10,1,0
+timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random,good(1),good(2),y_birth,m_birth,d_birth,h_bed,m_bed
+4/5/2018 11:22:56,QRM,0,0,1,0,male,neither,-1,0,0,7,Productive,Good sleep,1994,10,12,0,0
+4/5/2018 11:23:04,CS,0,0,-1,1,male,ignorant,-1,1,-1,-1,got a 8.5,got 2 8.5s,1993,6,8,16,22
+4/5/2018 11:23:06,BA,1,1,0,1,male,neither,5,0,-1,6,Food,Sport,1992,12,25,0,0
+4/5/2018 11:23:50,BA,1,1,1,1,male,ignorant,2,0,0,8,-,-,1995,1,2,-1,-1
+4/5/2018 11:23:59,CS,0,0,0,1,male,ignorant,6,0,0,8,sleep,beer,1994,9,1,0,0
+4/5/2018 11:24:34,Drug Discovery and Safety,0,0,1,0,male,fat,4,0,100,-1,Chocolate,Doing nothing ,1994,8,17,9,0
+4/5/2018 11:25:25,CS,1,1,1,0,male,neither,5,0,1,-1,Chocolate,More chocolate,1993,9,27,0,0
+4/5/2018 11:25:25,CLS,0,0,1,1,male,fat,5,1,0,3,Sunshine,Friends,1994,5,14,0,0
+4/5/2018 11:25:36,EOR,0,0,1,0,male,neither,2,0,0,-1,Sun,Rain,1931,11,4,1,0
+4/5/2018 11:25:51,Bioinformatics,1,1,-1,1,male,slim,7,0,0,5,Free time,More free time,1993,8,19,2,0
+4/5/2018 11:25:54,EOR,0,0,1,0,female,ignorant,8,1,0,8,Good coffee,Sunshine,1990,5,16,0,0
+4/5/2018 11:26:10,CS,0,0,1,1,female,slim,6,0,1,-1,Cats,Coffee,1995,3,30,0,0
+4/5/2018 11:26:23,Bioinformatics,1,0,1,0,female,fat,8,0,2,-1,Sunny weather ,Good food ,-1,10,16,-1,-1
+4/5/2018 11:26:30,AI,1,1,0,1,male,ignorant,6,0,-1,-1,Good grades,All grades,-1,4,12,1,0
+4/5/2018 11:26:39,EOR,1,0,1,0,male,ignorant,2,0,99,-1,Food,Wine,-1,2,4,0,0
+4/5/2018 11:26:40,Bioinformatics,0,0,1,0,female,fat,1,0,0,7,Pancakes for breakfast,No wind,1994,5,2,23,30
+4/5/2018 11:26:43,BA,1,1,1,1,female,ignorant,1,1,100,7,Sleep,Netflix,-1,1,22,1,30
+4/5/2018 11:26:44,BA,1,1,1,1,male,fat,3,0,80,6,Sleep,Relax,1994,7,10,1,0
+4/5/2018 11:26:47,AI,1,1,1,1,female,fat,2,0,0,-1,Good sleep,Go to the gym,1995,2,23,23,30
+4/5/2018 11:26:54,CS,0,0,1,1,male,neither,1,0,1,7,Pizza,Beer,1994,3,24,-1,-1
+4/5/2018 11:27:04,CLS,0,0,1,0,male,ignorant,7,-1,-1,-1,Pancakes,Pizza,1996,1,4,23,59
+4/5/2018 11:27:06,CS,1,0,1,1,male,ignorant,2,0,200,2,Good foodd,Lot of foodd,1995,7,12,23,20
+4/5/2018 11:27:06,AI,1,1,1,0,male,ignorant,1,0,70,2,sex,good food,1992,4,11,2,0
+4/5/2018 11:27:08,AI,0,0,1,0,female,ignorant,5,0,0,6,Puppies,sunshine,1993,5,11,23,30
+4/5/2018 11:27:10,CLS,0,0,1,0,female,neither,8,0,0,7,Nice grades,Good food,-1,11,3,0,0
+4/5/2018 11:27:11,CS,0,0,1,1,male,fat,8,-1,10,4,Coffee,Good night sleep,1994,9,21,1,30
+4/5/2018 11:27:12,BA,1,1,1,0,male,slim,2,0,110,-1,Cheese,Beer,-1,10,19,23,30
+4/5/2018 11:27:12,BA,1,1,1,0,female,fat,2,0,10,9,Coffee,Food,-1,4,14,0,0
+4/5/2018 11:27:13,AI,1,1,1,1,male,fat,5,0,1234,4,Food,Coffee,-1,12,23,23,30
+4/5/2018 11:27:14,EOR,0,0,1,0,female,fat,1,0,-1,3,Good food,Lovely people,1991,10,29,1,20
+4/5/2018 11:27:14,CLS,0,0,1,1,male,fat,7,0,110,-1,Sunshine,Beer,1991,7,11,23,55
+4/5/2018 11:27:15,BA,1,1,1,1,male,ignorant,4,0,100,5,Sun,Sun,-1,2,15,1,0
+4/5/2018 11:27:16,BA,1,1,1,1,female,ignorant,0,0,25,3,Sun,Friends,-1,3,10,23,0
+4/5/2018 11:27:16,AI,1,1,1,1,female,ignorant,3,0,0,-1,Nice weather ,Music,-1,1,14,2,0
+4/5/2018 11:27:18,unknown,0,0,1,0,male,neither,7,0,-1,-1,Good food,No alarm,1995,5,21,-1,-1
+4/5/2018 11:27:18,CS,1,1,1,1,male,neither,1,0,1,9,Sun,Freedom,1992,11,9,1,0
+4/5/2018 11:27:18,BA,1,1,1,1,male,fat,0,0,0,1,Good food ,Good sex ,1995,4,12,1,0
+4/5/2018 11:27:18,AI,0,1,1,1,female,fat,5,0,100,2,good food,enough sleep,1995,10,1,1,0
+4/5/2018 11:27:18,AI,1,1,1,1,male,ignorant,6,0,3,-1,No homework,A blunt,-1,-1,-1,1,0
+4/5/2018 11:27:19,AI,1,1,1,0,female,neither,-1,0,5,2,Good weather,No school ,-1,8,20,1,15
+4/5/2018 11:27:19,AI,1,0,1,0,male,ignorant,1,0,0,2,Snow,Storm,-1,5,12,-1,-1
+4/5/2018 11:27:20,AI,1,1,1,1,male,ignorant,-1,0,99,9,Fun,Relaxation,1993,6,13,1,0
+4/5/2018 11:27:21,AI,1,1,1,0,male,ignorant,2,0,6,5,Jezus man,Te diep,1996,1,29,2,0
+4/5/2018 11:27:21,Bioinformatics,1,0,1,1,unknown,fat,2,0,1,9,Energy,Smiles,-1,10,12,22,0
+4/5/2018 11:27:21,AI,1,0,1,0,male,neither,5,0,10,-1,Food,Sports,1994,5,15,0,0
+4/5/2018 11:27:21,BA,1,1,1,1,male,ignorant,-1,0,7,5,beer,sex,1994,12,27,23,0
+4/5/2018 11:27:22,BA,1,1,1,1,male,fat,-1,0,0,4,Beer,Good food,1995,10,8,23,55
+4/5/2018 11:27:23,BA,1,1,1,1,female,fat,1,0,50,8,Sun,Free time,1995,5,25,23,0
+4/5/2018 11:27:23,Bioinformatics,1,0,1,0,female,fat,0,0,100,-1,cats,coffee,1996,1,16,0,0
+4/5/2018 11:27:25,BA,1,1,1,1,male,fat,7,0,100,-1,Sex,Gaming,1994,10,16,23,15
+4/5/2018 11:27:25,Exchange,1,1,1,1,male,fat,8,0,1,7,Weather,Beer,-1,4,28,0,0
+4/5/2018 11:27:26,BA,1,1,1,1,male,neither,4,0,42,7,Laughing,Sun shining,1994,12,13,0,0
+4/5/2018 11:27:26,EOR,0,0,1,0,female,fat,7,0,0,4,Sun,Sea,-1,4,4,11,50
+4/5/2018 11:27:27,CS,0,0,1,1,male,neither,-1,0,1,6,People miding their own business,Nice weather,1996,7,15,1,0
+4/5/2018 11:27:27,AI,1,0,1,1,male,ignorant,-1,0,0,9,Coffee,Pizza,1995,1,30,0,0
+4/5/2018 11:27:27,EOR,0,0,1,0,male,neither,4,0,100,3,Sun ,Food,1995,8,22,23,30
+4/5/2018 11:27:27,Duisenberg Honor Programme,0,0,1,0,male,fat,1,0,25,7,No assigments,Freedom,1992,10,17,0,30
+4/5/2018 11:27:27,BA,1,1,1,1,male,slim,8,0,0,8,Music,Food,-1,11,28,1,0
+4/5/2018 11:27:28,QRM,0,0,1,0,male,neither,2,0,0,6,Saturday,Sunday,1994,3,17,0,15
+4/5/2018 11:27:28,BA,1,1,1,1,female,fat,6,0,25,8,Chocolate,Sun,1994,4,30,23,15
+4/5/2018 11:27:28,unknown,1,1,1,1,male,neither,-1,0,25,7,-,-,-1,1,16,23,0
+4/5/2018 11:27:28,CLS,1,0,1,1,female,fat,3,0,0,1,Enough sleep,Exercise,-1,1,20,1,0
+4/5/2018 11:27:29,BA,1,1,0,1,unknown,fat,2,1,90,8,Wake up time,Chocolate,1995,11,20,0,0
+4/5/2018 11:27:30,BA,1,1,1,1,male,fat,7,0,1,8,Coffee,Wake-up time,1996,9,3,23,5
+4/5/2018 11:27:30,AI,0,1,1,1,male,ignorant,2,0,25,-1,Sunny day,No school,-1,-1,-1,0,0
+4/5/2018 11:27:30,EOR,0,0,1,0,male,fat,3,0,2,2,Freedom,Money,1991,11,22,2,0
+4/5/2018 11:27:31,AI,1,1,1,1,male,fat,-1,0,101,-1,Not coming to VU,Sushi,-1,1,23,1,0
+4/5/2018 11:27:31,Bioinformatics,1,1,1,1,male,unknown,2,0,0,1,Work,Food,1994,12,9,2,0
+4/5/2018 11:27:31,AI,1,0,1,1,female,ignorant,2,0,1,7,nice weather,coffee,1995,10,9,0,0
+4/5/2018 11:27:32,EOR,0,0,1,0,male,ignorant,5,0,1,0,Fox news,sleep,-1,12,21,-1,-1
+4/5/2018 11:27:32,AI,0,1,1,-1,female,ignorant,1,0,1,7,sunny weather,pizza,-1,1,28,23,3
+4/5/2018 11:27:32,CLS,0,-1,0,0,female,fat,7,0,0,3,Sun,Not studying,-1,2,7,0,0
+4/5/2018 11:27:32,AI,0,0,0,1,male,ignorant,4,0,100,5,Fun fun fun,A good day,1991,12,30,23,59
+4/5/2018 11:27:32,CLS,0,0,1,1,female,slim,7,0,10,7,No rain,Food,1995,5,8,1,30
+4/5/2018 11:27:32,BA,1,0,1,1,female,fat,6,0,2,7,nice food,a lot of fun ,1992,9,27,22,10
+4/5/2018 11:27:32,CLS,0,0,1,0,female,slim,1,0,-1,1,Kind people around me ,Coffee,1993,8,8,-1,-1
+4/5/2018 11:27:32,AI,0,0,0,0,female,neither,1,0,10,9,sunshine,good coffee ,1995,10,3,1,0
+4/5/2018 11:27:33,AI,0,0,1,1,male,ignorant,4,0,5,7,Bunnies,Good weather,1990,2,9,1,15
+4/5/2018 11:27:33,AI,0,0,1,1,female,ignorant,1,0,0,8,Laughs,No stress,-1,11,11,23,15
+4/5/2018 11:27:33,EOR,0,1,1,0,male,fat,1,0,100,8,Sun,Lunch,1994,8,31,12,0
+4/5/2018 11:27:33,MS,-1,0,1,0,male,neither,8,0,50,3,A productive day,A day with company,1988,5,2,23,58
+4/5/2018 11:27:34,BA,1,1,1,1,male,neither,7,0,0,4,Food,Good grades,-1,4,19,0,0
+4/5/2018 11:27:34,Bioinformatics,0,0,0,1,female,fat,7,0,1,-1,sunshine,beer,1987,5,10,1,30
+4/5/2018 11:27:34,Human Movement Science,0,0,1,0,female,ignorant,1,0,0,8,Coffee,Sunshine,1992,5,28,0,30
+4/5/2018 11:27:35,BA,1,0,1,0,male,fat,1,0,1,3,Sun,Good food,-1,7,29,0,0
+4/5/2018 11:27:35,BA,1,1,1,1,male,ignorant,1,0,100,4,Sex,No worries,-1,3,27,4,0
+4/5/2018 11:27:35,Finance,0,0,1,1,male,fat,5,0,1,5,Some food,Netflix,1994,3,4,1,0
+4/5/2018 11:27:35,BA,1,1,1,1,male,fat,6,0,0,9,Food,Sleep,1994,7,5,-1,-1
+4/5/2018 11:27:35,QRM,0,0,1,0,male,fat,5,0,5,7,Nice weather,Winning the lotery,-1,6,28,0,30
+4/5/2018 11:27:35,AI,1,1,1,1,female,neither,-1,0,0,5,Food,Sleep,1995,6,27,1,0
+4/5/2018 11:27:35,PhD student,1,0,1,1,male,fat,2,0,0,3,Sex,Video games,1990,2,9,23,0
+4/5/2018 11:27:35,Bioinformatics,1,0,0,1,female,neither,-1,0,20,1,Sun,Free time,1994,12,25,0,0
+4/5/2018 11:27:36,PhD student,0,0,1,0,female,fat,0,0,1,6,sleeping well,sunshine,-1,3,30,-1,-1
+4/5/2018 11:27:36,Bioinformatics,1,1,1,1,female,neither,-1,0,0,1,chocolate,nice weather,1993,11,21,23,30
+4/5/2018 11:27:36,Bioinformatics,1,0,1,0,female,fat,2,0,0,8,Receiving food,Sun,1994,12,4,0,0
+4/5/2018 11:27:36,BA,1,1,1,1,male,slim,7,0,85,3,Sex,Good sleep,1992,8,24,0,30
+4/5/2018 11:27:36,CS,0,0,1,1,male,slim,6,0,100,2,Plenty food,Plenty sleep,-1,7,11,22,0
+4/5/2018 11:27:37,Bioinformatics,0,0,1,1,male,slim,-1,0,100,5,Music,Challenge ,1990,5,2,0,0
+4/5/2018 11:27:37,EOR,1,1,1,1,male,ignorant,1,0,100,7,Mac Donalds,A good sleep,1994,9,9,23,30
+4/5/2018 11:27:37,CS,1,0,1,1,male,neither,-1,0,100,7,Achieving something,Learning something,-1,9,18,0,0
+4/5/2018 11:27:38,BA,1,1,1,1,male,ignorant,1,0,10,2,Sun,Sleep,-1,8,17,23,0
+4/5/2018 11:27:38,EOR,0,0,1,0,female,ignorant,4,0,1,1,coffee,laughter,-1,2,2,0,0
+4/5/2018 11:27:38,CS,0,0,1,1,male,fat,5,1,10,9,The Sun,No stress,-1,6,19,2,0
+4/5/2018 11:27:38,AI,1,0,1,0,female,ignorant,3,0,1,8,Sunshine,Coffee,1993,12,22,22,45
+4/5/2018 11:27:38,CS,1,1,1,1,male,fat,-1,0,40,8,Good food,A good nice sleep,1993,11,6,23,0
+4/5/2018 11:27:38,CLS,1,1,1,0,male,neither,6,0,20,7,Coffee,Finishing some work,1994,5,17,1,30
+4/5/2018 11:27:38,AI,1,1,1,0,male,neither,5,0,0,8,"Sun, music, friends, beer",Coffee,1993,10,15,0,0
+4/5/2018 11:27:39,Bioinformatics,1,0,0,0,female,slim,2,0,5,-1,Good sleep,Nice food,1995,2,20,0,0
+4/5/2018 11:27:39,AI,0,0,1,0,male,neither,6,0,-1,7,Saturday,Sunday,1992,3,17,0,0
+4/5/2018 11:27:39,CS,0,0,1,1,male,neither,1,0,-1,-1,Good fuckin breakfast,Completing my task,1992,10,14,1,48
+4/5/2018 11:27:40,AI,0,1,1,1,female,neither,1,0,1,9,Sunny weather,no work appointments,1991,4,12,0,0
+4/5/2018 11:27:40,Bioinformatics,1,0,1,0,male,fat,4,0,0,2,Good weather,No lectures,1996,10,9,2,0
+4/5/2018 11:27:40,EOR,0,0,1,0,male,fat,4,0,0,8,Chocolate,Flying,1993,9,19,0,0
+4/5/2018 11:27:41,AI,1,1,1,1,female,ignorant,6,0,50,9,If the sun shines,If I got up with the correct leg,-1,9,9,0,0
+4/5/2018 11:27:42,CLS,1,1,1,1,male,slim,6,-1,-1,3,Sun,Friends,1994,1,26,0,45
+4/5/2018 11:27:42,BA,1,0,1,0,female,fat,1,0,75,9,Sun,Good food,1995,11,24,1,0
+4/5/2018 11:27:42,AI,0,0,1,0,male,neither,4,0,27,8,Relief,Future plans being solid,1994,3,9,2,0
+4/5/2018 11:27:42,AI,1,1,1,1,male,ignorant,3,1,100,6,Sex,Drugs,-1,9,11,1,0
+4/5/2018 11:27:43,BA,1,0,1,0,male,neither,-1,0,0,9,Wake up without A alarm,Going to the gym,1992,12,30,23,30
+4/5/2018 11:27:43,CLS,0,0,1,0,male,ignorant,7,0,10,-1,Sports,Being productive,1994,2,18,23,30
+4/5/2018 11:27:43,cs,0,0,0,0,male,slim,2,-1,0,9,Good food,fast train,1996,5,22,0,0
+4/5/2018 11:27:43,BA,1,1,1,1,female,fat,7,0,0,8,Nice weather,Coffe,1995,9,13,23,0
+4/5/2018 11:27:44,AI,1,1,0,0,male,ignorant,8,1,1,7,Finish my daily tasks,Watch a movie,1993,3,26,0,30
+4/5/2018 11:27:44,AI,1,1,0,1,female,fat,8,0,50,7,no rain,sun,-1,11,15,-1,-1
+4/5/2018 11:27:45,CLS,1,0,1,0,male,neither,8,0,0,4,sun,good food,1990,4,4,11,49
+4/5/2018 11:27:45,AI,0,1,1,0,male,ignorant,7,0,-1,9,Getting my salary,Bike not braking down,1989,4,19,23,45
+4/5/2018 11:27:45,MPA,0,0,1,0,male,neither,4,0,100,4,sunny weather,no obligations,1992,4,6,23,0
+4/5/2018 11:27:45,CS,1,1,1,1,male,fat,8,0,80,6,Sunny weather ,Good food,1995,5,4,-1,-1
+4/5/2018 11:27:45,Bioinformatics,1,0,0,0,male,fat,-1,0,1,7,good dinner,assignmeny done,1988,9,22,0,0
+4/5/2018 11:27:45,AI,1,1,0,0,male,fat,-1,0,100,1,Get some good sleep,Get satisfaction at work,1981,3,14,0,30
+4/5/2018 11:27:46,CLS,1,0,1,0,male,neither,3,0,0,8,Friendly encounters,Good coffee,1993,12,31,2,0
+4/5/2018 11:27:46,Bioinformatics,1,0,1,0,female,neither,1,0,0,2,Morning tea,Getting to bed early,1996,11,2,-1,-1
+4/5/2018 11:27:46,Bioinformatics,1,0,1,0,male,fat,2,0,0,10,Good dinner,Friends,1995,3,20,12,20
+4/5/2018 11:27:46,AI,1,1,1,0,female,fat,1,0,-1,-1,Seeing friends,sun,-1,5,19,2,0
+4/5/2018 11:27:47,AI,0,0,1,-1,female,ignorant,1,0,12,8,Nothing,"Nothing, I hate life",-1,8,12,6,0
+4/5/2018 11:27:48,EOR,0,0,1,0,male,neither,8,0,0,-1,Sports,Good dinner,1995,10,12,23,45
+4/5/2018 11:27:48,EOR,1,1,1,0,male,fat,-1,0,100,-1,Achievement,Relaxation,1994,10,23,-1,-1
+4/5/2018 11:27:48,BA,0,0,1,0,female,neither,1,0,10,4,Tasty food,Being with my friends,1993,2,18,23,30
+4/5/2018 11:27:48,Exchange,1,0,1,0,male,neither,5,0,100,10,Productivity,Decent dinner,-1,6,17,0,0
+4/5/2018 11:27:48,BA,1,1,1,1,male,neither,1,0,5,1,Sleep,Good news,1996,2,9,0,0
+4/5/2018 11:27:49,Bioinformatics,0,0,0,0,female,neither,2,0,10,10,Sunny day,Meeting with friends,1995,4,24,0,0
+4/5/2018 11:27:50,CS,0,0,1,1,male,ignorant,3,0,25,7,Food,Football,-1,3,29,0,0
+4/5/2018 11:27:50,EOR,0,0,0,0,male,fat,7,0,1,4,Succeed in dayly goal,Noting to do,1994,6,23,11,30
+4/5/2018 11:27:50,AI,1,0,1,0,male,ignorant,4,0,15,1,Coffee,Sunshine,1990,10,25,0,0
+4/5/2018 11:27:50,BA,1,1,1,1,unknown,neither,1,0,0,6,No school/work,Sex,1994,6,9,23,30
+4/5/2018 11:27:50,AI,0,0,1,0,female,ignorant,2,0,0,7,Friends,Weather,1995,1,16,3,0
+4/5/2018 11:27:50,BA,1,0,1,1,female,fat,2,0,5,7,sun,free day,1994,6,13,23,0
+4/5/2018 11:27:51,BA,1,1,1,1,male,ignorant,6,0,0,9,Sports,Drinks,-1,4,24,0,0
+4/5/2018 11:27:51,Bioinformatics,0,0,1,1,male,fat,6,0,1,8,Rest,Goos food,1995,12,14,0,0
+4/5/2018 11:27:51,QRM,0,0,1,0,male,neither,2,0,5,1,Na,Na,1993,5,24,1,30
+4/5/2018 11:27:51,CLS,1,0,1,1,female,fat,7,1,2,2,Dance,Productive,1990,12,7,1,15
+4/5/2018 11:27:51,BA,1,1,1,1,male,ignorant,5,-1,100,7,Sunshine,Good food,1997,1,18,0,30
+4/5/2018 11:27:51,MS,-1,0,1,0,male,neither,8,0,50,3,A productive day,A day with company,1988,5,2,23,58
+4/5/2018 11:27:52,Bioinformatics,0,0,0,0,male,fat,2,0,1,-1,Food,Chocolate,1992,6,11,2,30
+4/5/2018 11:27:52,AI,0,0,1,0,male,neither,6,0,0,6,Fun,Nice food,1995,7,3,23,45
+4/5/2018 11:27:53,AI,1,1,1,1,male,ignorant,4,0,90,1,Sleeping in,Staying up late,1992,7,31,2,0
+4/5/2018 11:27:53,BA,1,0,1,1,male,fat,-1,0,-1,-1,having a good sleep,some free time,1768,1,10,22,0
+4/5/2018 11:27:53,QRM,-1,0,1,0,male,neither,0,0,50,3,good weather,free time,1994,4,12,0,0
+4/5/2018 11:27:54,CS,0,0,1,1,female,ignorant,-1,0,100,3,Good food,No stress,1991,12,10,3,0
+4/5/2018 11:27:54,AI,1,1,1,1,male,fat,7,0,20,7,Coffee,Sunshine,1993,2,7,1,34
+4/5/2018 11:27:54,QRM,0,0,1,0,male,ignorant,0,0,14,4,Coffee,Sunny day,1993,3,12,0,0
+4/5/2018 11:27:55,Bioinformatics,1,0,1,0,male,ignorant,6,0,1,8,Sunshine,Breakfast,1991,9,18,0,0
+4/5/2018 11:27:56,Bioinformatics,1,0,0,0,male,neither,6,0,0,4,No responsibilities,sleeping in,1994,1,23,1,30
+4/5/2018 11:27:56,BA,0,0,1,0,male,fat,-1,0,1,10,Playing football,Meeting awesome people,1994,12,10,1,0
+4/5/2018 11:27:58,EOR,1,1,1,1,male,fat,-1,0,5,8,Sex,Asian food,1990,5,11,1,0
+4/5/2018 11:27:58,Exchange,1,0,-1,1,female,neither,6,0,20,1,Things to do,Not too much to do,1994,1,6,23,30
+4/5/2018 11:27:58,BA,1,0,1,0,male,neither,6,0,0,8,sleeping,weather,1991,4,7,0,0
+4/5/2018 11:27:58,PhD student,0,0,1,0,male,neither,2,0,0,7,Nice food,Good sleep,1995,1,3,23,30
+4/5/2018 11:27:59,Bioinformatics,0,0,1,0,male,fat,6,0,10,2,Good sleep,Good food,1996,2,3,23,30
+4/5/2018 11:27:59,Bioinformatics,1,0,1,0,female,neither,2,0,1,7,Sunshine,Having the house quiet ehrn i wake up,1987,5,8,0,13
+4/5/2018 11:28:00,SBI,0,0,-1,1,male,neither,2,0,0,6,Waking up not tired,Have nothing to do,1994,2,25,23,45
+4/5/2018 11:28:00,Economics,0,0,1,0,female,neither,2,0,0,7,A,B,1995,3,28,23,0
+4/5/2018 11:28:00,CLS,0,0,1,0,male,neither,8,0,52,4,Free cheese,Good coffee,1995,1,27,-1,-1
+4/5/2018 11:28:00,QRM,0,0,1,0,male,neither,8,0,5,6,Success,Food,-1,10,9,0,30
+4/5/2018 11:28:01,AI,1,0,1,1,male,neither,1,0,1,10,Having slept well,Getting work done,1994,9,7,0,0
+4/5/2018 11:28:01,EOR,1,1,1,1,unknown,ignorant,8,-1,1,3,Free time,Not it being bad,-1,5,18,0,0
+4/5/2018 11:28:02,CLS,1,1,1,1,male,neither,1,0,101,4,Pizza,Seeing you *kiss*,1996,10,25,3,20
+4/5/2018 11:28:02,AI,1,1,1,1,male,neither,7,0,1,3,Beer,Exercise,1994,11,2,3,0
+4/5/2018 11:28:03,BA,0,0,1,0,male,ignorant,2,0,101,2,Holiday,Food ,1995,8,15,23,15
+4/5/2018 11:28:03,QRM,0,0,1,0,male,neither,1,0,0,9,No time series assignment,0,1996,12,9,1,30
+4/5/2018 11:28:03,CS,0,1,1,0,male,fat,2,0,1,8,good food,new experiences,1992,11,8,0,0
+4/5/2018 11:28:04,EOR,0,0,1,-1,female,fat,1,0,4,7,Me-Time,Productivity,1991,12,23,0,0
+4/5/2018 11:28:04,Bioinformatics,1,0,1,0,female,ignorant,4,0,5,3,Not having to get up early,sushi,1993,6,13,2,0
+4/5/2018 11:28:04,CLS,1,0,1,1,male,neither,5,0,0,9,Sunny,Food,-1,6,26,1,0
+4/5/2018 11:28:05,AI,0,0,1,0,male,neither,3,0,3,7,No alarm in the morning,Good and sunny weather,1993,12,2,2,0
+4/5/2018 11:28:08,CLS,0,1,1,0,male,neither,3,0,1,-1,waking up well rested,get fast asleep quickly,-1,10,4,0,0
+4/5/2018 11:28:08,PhD student,0,0,1,0,male,neither,2,0,0,7,Nice food,Good sleep,1995,1,3,23,30
+4/5/2018 11:28:09,AI,0,-1,1,-1,female,neither,0,0,1,3,Food,Not having Anything to do,1996,8,25,0,0
+4/5/2018 11:28:09,BA,1,0,1,0,male,fat,3,0,5,4,Sleep,Sports,1992,7,7,1,30
+4/5/2018 11:28:10,CS,0,1,1,1,male,ignorant,6,0,-1,9,Cloudy skies  ,Memes ,1995,2,4,0,0
+4/5/2018 11:28:11,CLS,1,0,1,0,male,neither,3,0,1,10,afternoon lectures,weekend,-1,11,17,1,0
+4/5/2018 11:28:12,BA,1,0,1,0,male,fat,3,1,200,1,Food,No college,1994,1,9,0,0
+4/5/2018 11:28:14,BA,1,1,1,1,female,fat,5,0,30,9,Getting a good grade,Sleep well,1995,2,23,23,30
+4/5/2018 11:28:15,EOR,0,0,1,-1,male,fat,1,0,0,2,nice weather,fun time,1993,2,9,0,30
+4/5/2018 11:28:15,CLS,1,0,1,0,male,ignorant,4,1,0,-1,No lecture at 9,No lectures,1993,7,6,23,15
+4/5/2018 11:28:15,CS,1,1,1,1,male,fat,5,0,0,-1,Morning sex,Going to the gym,-1,1,12,2,30
+4/5/2018 11:28:18,BA,1,0,1,1,female,neither,4,0,-1,9,Good sleep,Free time ,1993,3,19,0,0
+4/5/2018 11:28:19,Bioinformatics,1,0,0,0,female,neither,-1,0,5,8,good weather,Achievement,-1,-1,-1,22,0
+4/5/2018 11:28:20,Mathematics,0,0,1,0,female,ignorant,7,0,5,7,A good sleep,Be around nice people,1996,9,24,23,0
+4/5/2018 11:28:18,Bioinformatics,0,0,1,1,male,ignorant,7,0,3,3,Good night rest,No compile errors on first try,1996,5,2,0,0
+4/5/2018 11:28:21,EOR,0,0,1,0,male,neither,3,0,10,-1,Sports,Chocolate,1995,4,12,0,0
+4/5/2018 11:28:23,CLS,1,-1,1,1,male,neither,1,0,80,4,productivity,no pain,1990,4,12,3,0
+4/5/2018 11:28:25,Bioinformatics,0,0,1,0,male,fat,1,0,5,-1,Good sleep,Cheese,1993,11,26,0,0
+4/5/2018 11:28:26,AI,1,0,1,1,male,fat,1,0,20,7,Coffee,Music,1994,8,18,23,0
+4/5/2018 11:28:29,AI,0,0,1,0,male,fat,5,0,50,6,Good sleep,Sports,1990,12,30,3,0
+4/5/2018 11:28:30,CLS,1,0,0,0,male,neither,2,0,0,4,1,2,-1,8,7,4,30
+4/5/2018 11:28:32,BA,1,1,0,1,male,unknown,-1,-1,999999999999999983222784,7,Guest lecture by Tupac,0 heart attacks,2000,5,4,4,0
+4/5/2018 11:28:42,CLS,0,0,0,0,male,slim,7,0,0,7,Temptation Island,Sun,1991,12,25,2,0
+4/5/2018 11:28:56,QRM,0,0,1,1,male,ignorant,1,0,5,3,"Sunshine, structure ","Following 4 courses at the same time, rain",-1,3,18,0,0
+4/5/2018 11:29:04,Bioinformatics,1,0,1,0,female,neither,1,0,0,5,A good book,Nice people,1993,10,24,1,5
+4/5/2018 11:29:27,AI,1,1,1,1,male,ignorant,6,0,50,9,Hanging out,Sex,1993,9,2,0,0
+4/5/2018 11:30:36,AI,0,0,1,0,male,slim,2,-1,0,-1,food,friends,-1,9,11,0,0
+4/5/2018 11:38:01,EOR,0,0,1,0,male,fat,3,0,2,2,Freedom,Money,1991,11,22,2,0
+4/5/2018 12:10:39,AI,0,0,-1,-1,female,neither,7,-1,0,-1,Sun,Activities,1993,5,20,0,0
+4/5/2018 13:15:17,AI,1,1,1,0,male,fat,8,0,11,2,The foresight of a night out with friends,The taste of that first sip of cold beer on a hot summer day,1992,7,30,4,0
+4/5/2018 15:09:53,Physics,0,1,1,0,male,neither,5,0,-1,10,Good company,Well rested and structured,1991,4,12,1,30
+4/5/2018 18:04:54,BA,1,1,1,1,male,fat,3,0,80,6,Sleep,Relax,1994,7,10,1,0
