@@ -1,18 +1,18 @@
 timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random,good(1),good(2),y_birth,m_birth,d_birth,h_bed,m_bed
-4/5/2018 11:22:56,Duisenberg Honor Programme,no,no,yes,no,male,neither,-,no,0,7,Productive,Good sleep,1994,10,12,0,0
+4/5/2018 11:22:56,QRM,no,no,yes,no,male,neither,-,no,0,7,Productive,Good sleep,1994,10,12,0,0
 4/5/2018 11:23:04,CS,no,no,-,yes,male,ignorant,-,yes,-,-,got a 8.5,got 2 8.5s,1993,6,8,0,0
-4/5/2018 11:23:06,BA,yes,yes,no,yes,male,neither,5,no,-,6,Food,Sport,1992,12,25,19,32
+4/5/2018 11:23:06,BA,yes,yes,no,yes,male,neither,5,no,-,6,Food,Sport,1992,12,25,15,19
 4/5/2018 11:23:50,BA,yes,yes,yes,yes,male,ignorant,2,no,0,8,-,-,1995,1,2,0,0
 4/5/2018 11:23:59,CS,no,no,no,yes,male,ignorant,6,no,0,8,sleep,beer,1994,9,1,-,-
 4/5/2018 11:24:34,Drug Discovery and Safety,no,no,yes,no,male,fat,4,no,100,-,Chocolate,Doing nothing ,1994,8,17,0,0
 4/5/2018 11:25:25,CS,yes,yes,yes,no,male,neither,5,no,1,-,Chocolate,More chocolate,1993,9,27,9,0
 4/5/2018 11:25:25,CLS,no,no,yes,yes,male,fat,5,yes,0,3,Sunshine,Friends,1994,5,14,0,0
-4/5/2018 11:25:36,EOR,no,no,yes,no,male,neither,2,no,0,-,Sun,Rain,1931,11,4,0,0
+4/5/2018 11:25:36,EOR,no,no,yes,no,male,neither,2,no,0,-,Sun,Rain,-,11,4,0,0
 4/5/2018 11:25:51,Bioinformatics,yes,yes,-,yes,male,slim,7,no,0,5,Free time,More free time,1993,8,19,1,0
 4/5/2018 11:25:54,EOR,no,no,yes,no,female,ignorant,8,yes,0,8,Good coffee,Sunshine,1990,5,16,2,0
 4/5/2018 11:26:10,CS,no,no,yes,yes,female,slim,6,no,1,-,Cats,Coffee,1995,3,30,0,0
 4/5/2018 11:26:23,Bioinformatics,yes,no,yes,no,female,fat,8,no,2,-,Sunny weather ,Good food ,-,10,16,0,0
-4/5/2018 11:26:30,AI,yes,yes,no,yes,male,ignorant,6,no,-,-,Good grades,All grades,-,4,12,-,-
+4/5/2018 11:26:30,AI,yes,yes,no,yes,male,ignorant,6,no,-,-,Good grades,All grades,-,4,13,-,-
 4/5/2018 11:26:39,EOR,yes,no,yes,no,male,ignorant,2,no,99,-,Food,Wine,-,2,4,1,0
 4/5/2018 11:26:40,Bioinformatics,no,no,yes,no,female,fat,1,no,0,7,Pancakes for breakfast,No wind,1994,5,2,0,0
 4/5/2018 11:26:43,BA,yes,yes,yes,yes,female,ignorant,1,yes,100,7,Sleep,Netflix,-,1,22,23,30
@@ -35,14 +35,14 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:27:16,AI,yes,yes,yes,yes,female,ignorant,3,no,0,-,Nice weather ,Music,-,1,14,23,0
 4/5/2018 11:27:18,-,no,no,yes,no,male,neither,7,no,-,-,Good food,No alarm,1995,5,21,2,0
 4/5/2018 11:27:18,CS,yes,yes,yes,yes,male,neither,1,no,1,9,Sun,Freedom,1992,11,9,-,-
-4/5/2018 11:27:18,BA,yes,yes,yes,yes,male,fat,0,no,0,1,Good food ,Good sex ,1995,4,12,1,0
+4/5/2018 11:27:18,BA,yes,yes,yes,yes,male,fat,0,no,0,1,Good food ,Good sex ,1995,4,13,1,0
 4/5/2018 11:27:18,AI,no,yes,yes,yes,female,fat,5,no,100,2,good food,enough sleep,1995,10,1,1,0
 4/5/2018 11:27:18,AI,yes,yes,yes,yes,male,ignorant,6,no,3,-,No homework,A blunt,-,-,-,1,0
 4/5/2018 11:27:19,AI,yes,yes,yes,no,female,neither,-,no,5,2,Good weather,No school ,-,8,20,1,0
-4/5/2018 11:27:19,AI,yes,no,yes,no,male,ignorant,1,no,0,2,Snow,Storm,-,5,12,1,15
+4/5/2018 11:27:19,AI,yes,no,yes,no,male,ignorant,1,no,0,2,Snow,Storm,-,5,13,1,15
 4/5/2018 11:27:20,AI,yes,yes,yes,yes,male,ignorant,-,no,99,9,Fun,Relaxation,1993,6,13,-,-
 4/5/2018 11:27:21,AI,yes,yes,yes,no,male,ignorant,2,no,6,5,Jezus man,Te diep,1996,1,29,1,0
-4/5/2018 11:27:21,Bioinformatics,yes,no,yes,yes,-,fat,2,no,1,9,Energy,Smiles,-,10,12,2,0
+4/5/2018 11:27:21,Bioinformatics,yes,no,yes,yes,-,fat,2,no,1,9,Energy,Smiles,-,10,13,2,0
 4/5/2018 11:27:21,AI,yes,no,yes,no,male,neither,5,no,10,-,Food,Sports,1994,5,15,22,0
 4/5/2018 11:27:21,BA,yes,yes,yes,yes,male,ignorant,-,no,7,5,beer,sex,1994,12,27,0,0
 4/5/2018 11:27:22,BA,yes,yes,yes,yes,male,fat,-,no,0,4,Beer,Good food,1995,10,8,23,0
@@ -55,7 +55,7 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:27:27,CS,no,no,yes,yes,male,neither,-,no,1,6,People miding their own business,Nice weather,1996,7,15,11,50
 4/5/2018 11:27:27,AI,yes,no,yes,yes,male,ignorant,-,no,0,9,Coffee,Pizza,1995,1,30,1,0
 4/5/2018 11:27:27,EOR,no,no,yes,no,male,neither,4,no,100,3,Sun ,Food,1995,8,22,0,0
-4/5/2018 11:27:27,Duisenberg Honor Programme,no,no,yes,no,male,fat,1,no,25,7,No assigments,Freedom,1992,10,17,23,30
+4/5/2018 11:27:27,QRM,no,no,yes,no,male,fat,1,no,25,7,No assigments,Freedom,1992,10,17,23,30
 4/5/2018 11:27:27,BA,yes,yes,yes,yes,male,slim,8,no,0,8,Music,Food,-,11,28,0,30
 4/5/2018 11:27:28,QRM,no,no,yes,no,male,neither,2,no,0,6,Saturday,Sunday,1994,3,17,1,0
 4/5/2018 11:27:28,BA,yes,yes,yes,yes,female,fat,6,no,25,8,Chocolate,Sun,1994,4,30,0,15
@@ -109,7 +109,7 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:27:39,Bioinformatics,yes,no,no,no,female,slim,2,no,5,-,Good sleep,Nice food,1995,2,20,0,0
 4/5/2018 11:27:39,AI,no,no,yes,no,male,neither,6,no,-,7,Saturday,Sunday,1992,3,17,0,0
 4/5/2018 11:27:39,CS,no,no,yes,yes,male,neither,1,no,-,-,Good fuckin breakfast,Completing my task,1992,10,14,0,0
-4/5/2018 11:27:40,AI,no,yes,yes,yes,female,neither,1,no,1,9,Sunny weather,no work appointments,1991,4,12,1,48
+4/5/2018 11:27:40,AI,no,yes,yes,yes,female,neither,1,no,1,9,Sunny weather,no work appointments,1991,4,13,1,48
 4/5/2018 11:27:40,Bioinformatics,yes,no,yes,no,male,fat,4,no,0,2,Good weather,No lectures,1996,10,9,0,0
 4/5/2018 11:27:40,EOR,no,no,yes,no,male,fat,4,no,0,8,Chocolate,Flying,1993,9,19,2,0
 4/5/2018 11:27:41,AI,yes,yes,yes,yes,female,ignorant,6,no,50,9,If the sun shines,If I got up with the correct leg,-,9,9,0,0
@@ -133,7 +133,7 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:27:46,Bioinformatics,yes,no,yes,no,female,neither,1,no,0,2,Morning tea,Getting to bed early,1996,11,2,2,0
 4/5/2018 11:27:46,Bioinformatics,yes,no,yes,no,male,fat,2,no,0,10,Good dinner,Friends,1995,3,20,-,-
 4/5/2018 11:27:46,AI,yes,yes,yes,no,female,fat,1,no,-,-,Seeing friends,sun,-,5,19,12,20
-4/5/2018 11:27:47,AI,no,no,yes,-,female,ignorant,1,no,12,8,Nothing,"Nothing, I hate life",-,8,12,2,0
+4/5/2018 11:27:47,AI,no,no,yes,-,female,ignorant,1,no,12,8,Nothing,"Nothing, I hate life",-,8,13,2,0
 4/5/2018 11:27:48,EOR,no,no,yes,no,male,neither,8,no,0,-,Sports,Good dinner,1995,10,12,6,0
 4/5/2018 11:27:48,EOR,yes,yes,yes,no,male,fat,-,no,100,-,Achievement,Relaxation,1994,10,23,23,45
 4/5/2018 11:27:48,BA,no,no,yes,no,female,neither,1,no,10,4,Tasty food,Being with my friends,1993,2,18,-,-
@@ -155,8 +155,8 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:27:52,Bioinformatics,no,no,no,no,male,fat,2,no,1,-,Food,Chocolate,1992,6,11,23,58
 4/5/2018 11:27:52,AI,no,no,yes,no,male,neither,6,no,0,6,Fun,Nice food,1995,7,3,2,30
 4/5/2018 11:27:53,AI,yes,yes,yes,yes,male,ignorant,4,no,90,1,Sleeping in,Staying up late,1992,7,31,23,45
-4/5/2018 11:27:53,BA,yes,no,yes,yes,male,fat,-,no,-,-,having a good sleep,some free time,1768,1,10,2,0
-4/5/2018 11:27:53,QRM,-,no,yes,no,male,neither,0,no,50,3,good weather,free time,1994,4,12,22,0
+4/5/2018 11:27:53,BA,yes,no,yes,yes,male,fat,-,no,-,-,having a good sleep,some free time,-,1,10,2,0
+4/5/2018 11:27:53,QRM,-,no,yes,no,male,neither,0,no,50,3,good weather,free time,1994,4,13,22,0
 4/5/2018 11:27:54,CS,no,no,yes,yes,female,ignorant,-,no,100,3,Good food,No stress,1991,12,10,0,0
 4/5/2018 11:27:54,AI,yes,yes,yes,yes,male,fat,7,no,20,7,Coffee,Sunshine,1993,2,7,3,0
 4/5/2018 11:27:54,QRM,no,no,yes,no,male,ignorant,0,no,14,4,Coffee,Sunny day,1993,3,12,1,34
@@ -172,7 +172,7 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:28:00,SBI,no,no,-,yes,male,neither,2,no,0,6,Waking up not tired,Have nothing to do,1994,2,25,0,13
 4/5/2018 11:28:00,Economics,no,no,yes,no,female,neither,2,no,0,7,A,B,1995,3,28,23,45
 4/5/2018 11:28:00,CLS,no,no,yes,no,male,neither,8,no,52,4,Free cheese,Good coffee,1995,1,27,23,0
-4/5/2018 11:28:00,Duisenberg Honor Programme,no,no,yes,no,male,neither,8,no,5,6,Success,Food,-,10,9,-,-
+4/5/2018 11:28:00,QRM,no,no,yes,no,male,neither,8,no,5,6,Success,Food,-,10,9,-,-
 4/5/2018 11:28:01,AI,yes,no,yes,yes,male,neither,1,no,1,10,Having slept well,Getting work done,1994,9,7,0,30
 4/5/2018 11:28:01,EOR,yes,yes,yes,yes,-,ignorant,8,-,1,3,Free time,Not it being bad,-,5,18,0,0
 4/5/2018 11:28:02,CLS,yes,yes,yes,yes,male,neither,1,no,101,4,Pizza,Seeing you *kiss*,1996,10,25,0,0
@@ -181,10 +181,10 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:28:03,QRM,no,no,yes,no,male,neither,1,no,0,9,No time series assignment,.,1996,12,9,23,15
 4/5/2018 11:28:03,CS,no,yes,yes,no,male,fat,2,no,1,8,good food,new experiences,1992,11,8,1,30
 4/5/2018 11:28:04,EOR,no,no,yes,-,female,fat,1,no,4,7,Me-Time,Productivity,1991,12,23,0,0
-4/5/2018 11:28:04,Master Bionformatics and Systems Biology,yes,no,yes,no,female,ignorant,4,no,5,3,Not having to get up early,sushi,1993,6,13,0,0
+4/5/2018 11:28:04,Bioinformatics,yes,no,yes,no,female,ignorant,4,no,5,3,Not having to get up early,sushi,1993,6,13,0,0
 4/5/2018 11:28:04,CLS,yes,no,yes,yes,male,neither,5,no,0,9,Sunny,Food,-,6,26,2,0
 4/5/2018 11:28:05,AI,no,no,yes,no,male,neither,3,no,3,7,No alarm in the morning,Good and sunny weather,1993,12,2,1,0
-4/5/2018 11:28:08,CS,no,yes,yes,no,male,neither,3,no,1,-,waking up well rested,get fast asleep quickly,-,10,4,2,0
+4/5/2018 11:28:08,CLS,no,yes,yes,no,male,neither,3,no,1,-,waking up well rested,get fast asleep quickly,-,10,4,2,0
 4/5/2018 11:28:08,PhD student,no,no,yes,no,male,neither,2,no,0,7,Nice food,Good sleep,1995,1,3,0,0
 4/5/2018 11:28:09,AI,no,-,yes,-,female,neither,0,no,1,3,Food,Not having Anything to do,1996,8,25,23,30
 4/5/2018 11:28:09,BA,yes,no,yes,no,male,fat,3,no,5,4,Sleep,Sports,1992,7,7,0,0
@@ -199,8 +199,8 @@ timestamp,programme,ML,IR,stat,DB,gender,chocolate,neighbours,stand,money,random
 4/5/2018 11:28:19,Bioinformatics,yes,no,no,no,female,neither,-,no,5,8,good weather,Achievement,-,-,-,0,0
 4/5/2018 11:28:20,Mathematics,no,no,yes,no,female,ignorant,7,no,5,7,A good sleep,Be around nice people,1996,9,24,22,0
 4/5/2018 11:28:18,Bioinformatics,no,no,yes,yes,male,ignorant,7,no,3,3,Good night rest,No compile errors on first try,1996,5,2,23,0
-4/5/2018 11:28:21,EOR,no,no,yes,no,male,neither,3,no,10,-,Sports,Chocolate,1995,4,12,0,0
-4/5/2018 11:28:23,CLS,yes,-,yes,yes,male,neither,1,no,80,4,productivity,no pain,1990,4,12,0,0
+4/5/2018 11:28:21,EOR,no,no,yes,no,male,neither,3,no,10,-,Sports,Chocolate,1995,4,13,0,0
+4/5/2018 11:28:23,CLS,yes,-,yes,yes,male,neither,1,no,80,4,productivity,no pain,1990,4,13,0,0
 4/5/2018 11:28:25,Bioinformatics,no,no,yes,no,male,fat,1,no,5,-,Good sleep,Cheese,1993,11,26,3,0
 4/5/2018 11:28:26,AI,yes,no,yes,yes,male,fat,1,no,20,7,Coffee,Music,1994,8,18,0,0
 4/5/2018 11:28:29,AI,no,no,yes,no,male,fat,5,no,50,6,Good sleep,Sports,1990,12,30,23,0
