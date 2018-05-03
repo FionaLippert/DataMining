@@ -1,0 +1,40 @@
+Notes May 3th
+
+For 3th May - 10th May:
+-	exploration
+-	Kaggle references and doing research
+(-	data preparation)
+
+Schedule
+wk 18   3 - 10 May:	Kaggle research, data exploration, data preparation, report writing
+wk 19  10 - 17 May:	Modeling, predictions, report writing
+wk 20  17 - 24 May:	Evaluation, report writing
+
+24 - 27 May: possible delaytions, writing report, finalizing
+
+Things to do for Kaggle research:
+*	handling of missing values
+*	feature engineering
+*	models used with modeling
+
+Things to do for data exploration:
+*	find correlations between categorical features
+*	plotting of correlations between numerical features
+*	find distributions based on grouping of attributes
+*	difference between booking_bool and clicking_bool
+
+
+Writing: maximum amount of pages is 10
+
+Section			length (pages)
+  introduction		0.25
+  previous work		0.75
+  exploration		3
+  data preparation	1.5
+  modeling		2
+  evaluation		2
+  conclusions		0.5
+
+
+
+
