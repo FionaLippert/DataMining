@@ -1,0 +1,41 @@
+\documentclass[11pt]{article}
+
+\usepackage{gensymb}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage[font=footnotesize, labelformat=simple, labelsep=period, labelfont=normalfont]{subcaption}		% Normal subcaption
+\usepackage{url}					% Use of websites in bib.tex
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage[sort&compress,numbers,super]{natbib}	% Numbered References + Superscript
+\usepackage{times} 					% Times New Roman
+\usepackage{color}					% Able to colorize words
+\usepackage[a4paper, margin=1in]{geometry} 		% margins of 1 inch on every side
+\usepackage{graphicx}					% Figures
+\usepackage{chemstyle}					% Schemes
+\usepackage[font=footnotesize, labelsep=quad, labelfont=bf]{caption}			% Bold caption
+
+\renewcommand{\baselinestretch}{1.3} 			% 1.5 line spacing
+\renewcommand{\bibsection}{\section{References}}	% Add 'References' to TOC with section number
+
+
+\graphicspath{{Images/}}
+
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X} 
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+
+\begin{document}
+
+\begin{table}
+\begin{tabular}{lll}
+\toprule
+Date & Who & What work was performed \\
+\midrule
+26-04-2018 & F & Initial set up, reading previous work \\
+01-05-2018 & F, S & Initial exploration, reading previous work \\
+03-05-2018 & F, S, T & Planning work of the assignment, division of work for week 18-19 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\end{document}
