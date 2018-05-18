@@ -1,0 +1,58 @@
+
+				I	II	III	IV	V	VI	VII	VIII	IX	X
+srch_id				y			y		y				y
+site_id				y									
+orig_destination_distance	y		y		y	y	y	y	y	y
+price_diff_bool			y									
+price_diff_filled		y		y							
+price_usd			y	y			y	y		y	y	y
+promotion_flag			y									
+prop_country_id			y									
+prop_desirability		y	y		y	y		y	y	y	y
+prop_id				y									
+prop_starrating			y									
+prop_review_score		y									
+prop_brand_bool			y									
+prop_location_score1		y	y								
+prop_location_score2		y	y						y	y	y
+prop_log_historical_price	y									
+random_bool			y									
+srch_destination_id		y									
+srch_length_of_stay		y									
+srch_booking_window		y		y				y	y	y	y
+srch_adults_count		y									
+srch_children_count		y									
+srch_room_count			y									
+srch_saturday_night_bool	y									
+srch_query_affinity_score	y									
+star_diff_bool			y									
+star_diff_filled		y								y	y
+visitor_hist_starrating_filled	y									
+visitor_hist_adr_usd_filled	y									
+visitor_location_country_id	y									
+willingness_to_pay		y					y				
+	
+
+For predicting booked_clicking_combined
+
+		I	II	III	IV	V	VI	VII	VIII	IX	X
+acc 		0.95454	0.94411	0.94436	0.93564	0.94844	0.95045	0.94797	0.95379	0.95398	0.95451
+f1(micro)	0.95454	0.94411	0.94436	0.93564	0.94844	0.95045	0.94797	0.95379	0.95398	0.95451
+f1(macro	0.33904	0.35080	0.33252	0.34868	0.34557	0.32963	0.34349	0.34058	0.34013	0.33660
+f1(weighted)	0.93394	0.92995	0.92841	0.92564	0.93158	0.93113	0.93115	0.93373	0.93378	0.93377
+rec(micro)	0.95454	0.94411	0.94436	0.93564	0.94844	0.95045	0.94797	0.95379	0.95398	0.95451
+rec(macro)	0.33999	0.34700	0.33494	0.34625	0.34342	0.33430	0.34204	0.34076	0.34052	0.33873
+rec(weighted)	0.95454	0.94411	0.94436	0.93564	0.94844	0.95045	0.94797	0.95379	0.95398	0.95451
+
+For predicting booking_bool
+
+		I	II	III	IV	V	VI	VII	VIII	IX	X
+acc		0.97167	0.96526	0.96558	0.96063	0.96811	0.96911	0.96813	0.97125	0.97133	0.97168
+f1(micro)	0.97167	0.96526	0.96558	0.96063	0.96811	0.96911	0.96813	0.97125	0.97133	0.97168
+f1(macro)	0.50818	0.52268	0.49660	0.52008	0.51579	0.49347	0.51374	0.50868	0.50910	0.50529
+f1(weighted)	0.95886	0.95654	0.95525	0.95412	0.95755	0.95680	0.95745	0.95868	0.95875	0.95871
+rec(micro)	0.97167	0.96526	0.96558	0.96063	0.96811	0.96911	0.96813	0.97125	0.97133	0.97168
+rec(macro)	0.50763	0.51680	0.49994	0.51604	0.51188	0.49923	0.51063	0.50782	0.50808	0.50613
+rec(weighted)	0.97167	0.96526	0.96558	0.96063	0.96811	0.96911	0.96813	0.97125	0.97133	0.97168
+nDCG		0.42853	0.41951	0.35172	0.40118						
+
