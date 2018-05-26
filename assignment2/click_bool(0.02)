@@ -1,0 +1,27 @@
+CLICK BOOL
+
+>0.02
+feature						initial importance	
+prop_desirability_incomplete			0.044744
+price_usd_norm_srch_id				0.043941
+srch_id						0.038840
+prop_location_score2_norm_srch_id		0.037834
+prop_location_score1_norm_srch_id		0.034664
+price_usd_norm_srch_destination_id		0.034578
+prop_review_score_norm_srch_id			0.034354
+prop_location_score_combined_norm_srch_id	0.034137
+position_estimate				0.032960
+orig_destination_distance			0.032417
+srch_booking_window				0.031648
+price_sud_norm_site_id				0.028895
+price_usd					0.028502
+price_diff_filled				0.028500
+prop_log_historical_price			0.025067
+prop_location_score2_norm_site_id		0.022389
+prop_location_score_combined_norm_site_id	0.022093
+prop_id						0.021556
+avg_prop_price_usd				0.021445
+avg_prop_location_score2			0.021209
+prop_location_score2_norm_srch_destination_id	0.020648
+prop_location_score2				0.020436
+avg_prop_location_score_combined		0.020056
